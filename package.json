@@ -1,0 +1,11 @@
+{
+  "name": "elissaperdue.website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": "git@github.com:elissaperdue/elissaperdue.github.io.git",
+  "author": "Elissa Perdue <elissaperdue@gmail.com>",
+  "license": "MIT"
+}
